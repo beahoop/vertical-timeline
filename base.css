@@ -130,7 +130,9 @@ button:active {
   right: 100%;
   top: 10px;
 }
-
+.right-box button{
+  margin: -10px 0px 25px 25px;
+}
 
 .h1-right img{
   background-color:  #286188;
